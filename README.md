@@ -1,2 +1,1 @@
-# Efdb-on-STC89C52
-Electric fan design based on STC89C52
+本项目是一个比较劣质的课程设计，希望大佬帮助优化
